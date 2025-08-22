@@ -1,4 +1,4 @@
-<img align="left" title="Loom" src="https://raw.githubusercontent.com/siguici/art/HEAD/images/loom.svg" alt="Loom" height="256" />
+<img align="left" title="Loom" src="https://raw.githubusercontent.com/siguici/art/HEAD/images/loom.svg" alt="Loom" height="232" />
 
 ### Hey there! 👋 Welcome to **Loom**
 
